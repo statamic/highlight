@@ -1,0 +1,8 @@
+# URL variable to look for to define words to highlight
+get_variable: mark
+
+# Will be added immediately before any matches
+wrapping_element_start: '<mark>'
+
+# Will be added immediately after any matches
+wrapping_element_end: '</mark>'
