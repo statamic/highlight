@@ -1,4 +1,4 @@
-# Highlight
+# Highlight ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 
 Highlight words on the current page based on a variable in the URL.
 
